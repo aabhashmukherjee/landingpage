@@ -1,2 +1,3 @@
 # Landing Page
- Apple Shop Landing Page, second project of my CodSoft Internship
+Apple Shop Landing Page, second project of my CodSoft Internship
+I designed and developed a landing page called "Doctor's Fear" for an apple seller. This project showcases my ability to create visually appealing and functional e-commerce websites using HTML, CSS, and JavaScript. The page features a clean and user-friendly design, with smooth animations and dynamic elements that make it engaging for visitors. It highlights the apple products effectively and encourages user interaction. This project helped me improve my front-end development skills and understand e-commerce design better.
